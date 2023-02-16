@@ -1,0 +1,12 @@
+.subtitulo{
+    text-decoration: underline;
+    text-align: center;
+}
+.cards{
+    display: flex;
+    gap:5%;
+    flex-wrap:wrap;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 30px;
+}

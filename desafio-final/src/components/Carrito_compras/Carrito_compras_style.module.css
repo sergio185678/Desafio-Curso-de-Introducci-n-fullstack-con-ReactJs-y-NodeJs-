@@ -1,0 +1,22 @@
+.subtitulo{
+    text-decoration: underline;
+    text-align: center;
+}
+.tablaa{
+    text-align: center;
+    width: 80%;
+    padding-top:30px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+thead{
+    background-color: rgb(253, 231, 28);
+}
+tbody{
+    background-color: rgb(231, 231, 231);
+}
+.subsubtitulo{
+    text-align: center;
+    color: rgb(255, 30, 0);
+    text-decoration: none;
+}
